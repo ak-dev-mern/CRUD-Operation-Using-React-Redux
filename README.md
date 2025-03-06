@@ -1,2 +1,8 @@
-# CRUD Operation Using React Redux
- CRUD Operation app built with React and Redux allows users to Create, Read, Update, and Delete data seamlessly. With state management handled by Redux, the app ensures efficient data flow and real-time updates. It's fully responsive, providing a smooth and interactive experience for managing data across devices.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
